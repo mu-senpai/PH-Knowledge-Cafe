@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "The Future of Web Development: Trends to Watch in 2024",
+      "cover_img": "https://i.ibb.co.com/N9L73QB/web-dev.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/37rgqYp/author-1.jpg",
+      "posted_date": "2024-09-15",
+      "read_time": 6,
+      "hashtags": ["#WebDevelopment", "#Trends", "#2024"]
+    },
+    {
+      "id": 2,
+      "title": "A Deep Dive into React 18 and Its New Features",
+      "cover_img": "https://i.ibb.co.com/XZ8VSfQ/react.jpg",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/6myKNSM/author-4.jpg",
+      "posted_date": "2024-08-30",
+      "read_time": 8,
+      "hashtags": ["#ReactJS", "#JavaScript", "#WebDevelopment"]
+    },
+    {
+      "id": 3,
+      "title": "How AI is Transforming the World of UX/UI Design",
+      "cover_img": "https://i.ibb.co.com/T1Q7gMr/ui-ux.jpg",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co.com/fGgDKh8/author-2.jpg",
+      "posted_date": "2024-10-10",
+      "read_time": 7,
+      "hashtags": ["#AI", "#UXDesign", "#UIDesign", "#ArtificialIntelligence"]
+    },
+    {
+      "id": 4,
+      "title": "Mastering Tailwind CSS: Tips and Best Practices",
+      "cover_img": "https://i.ibb.co.com/09Hcd02/tailwind-css.jpg",
+      "author": "Emily Clark",
+      "author_img": "https://i.ibb.co.com/DMwCrWq/author-3.jpg",
+      "posted_date": "2024-09-25",
+      "read_time": 5,
+      "hashtags": ["#TailwindCSS", "#CSS", "#WebDesign", "#BestPractices"]
+    }
+]
+  
